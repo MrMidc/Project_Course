@@ -69,12 +69,12 @@ To use the GUI it is recommended to follow the next steps:
 
 ![GUI3](images/GUI3.PNG)
 
-1.- Insert the excel (.xlsx) file with the known poisitions pressing the *open* button. (Remember to leave in blank the first row of the excel file.
-2.- Insert the excel (.xlsx) file with the data corresponding to each unknown device. This should be a matrix of (2000 x NumberOfKnownPositions), the 2000 is the RIR length used, so please if your RIR is smaller than 2000 samples zero-pad it. At the end, the matrix should be compose of N columns and each column should contains a RIR. 
-3.- Insert the size of your room, selecting if you want the z-coordinate to be taken into account or not (3D or 2D). After that press the button *Ok*.
-4.- Insert the sample frequency in numbers.
-5.- Select if you want to estimate the delay or not.
-6.- Press the button *calculate* and wait for the estimation and the plot.
+- 1.- Insert the excel (.xlsx) file with the known poisitions pressing the *open* button. (Remember to leave in blank the first row of the excel file.
+- 2.- Insert the excel (.xlsx) file with the data corresponding to each unknown device. This should be a matrix of (2000 x NumberOfKnownPositions), the 2000 is the RIR length used, so please if your RIR is smaller than 2000 samples zero-pad it. At the end, the matrix should be compose of N columns and each column should contains a RIR. 
+- 3.- Insert the size of your room, selecting if you want the z-coordinate to be taken into account or not (3D or 2D). After that press the button *Ok*.
+- 4.- Insert the sample frequency in numbers.
+- 5.- Select if you want to estimate the delay or not.
+- 6.- Press the button *calculate* and wait for the estimation and the plot.
 
 If all the steps have been followed correctly the user should ends up with something like this:
 

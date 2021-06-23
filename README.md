@@ -58,3 +58,4 @@ A better explanation and a better understanding can be obtained if the user chec
 To use the GUI it is recommended to follow the next steps:
 
 - First, introduce the number of '*Known position devices*' and '*Unknown position devices*' (a number), and press the button *Load*
+![GUI1](https://raw.githubusercontent.com/MRMidc/Project-Course/master/images/GUI1.PNG)

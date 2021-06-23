@@ -9,12 +9,12 @@ The code of this project consists of series of functions implementing the calibr
 ### Libraries used
 
 In order to implement this application the next libraries have been used in the code:
-**matplotlib** : Library for plotting results. 
-**numpy** : Library to facilitate the management of the data.
-**pandas** : Library to facilitate the management of the data.
-**scipy** : Library to implement different functions like *minimization*, *findpeaks*, among others.
-**tkinter** : Library to design the GUI.
-
+- **matplotlib** : Library for plotting results. 
+- **numpy** : Library to facilitate the management of the data.
+- **pandas** : Library to facilitate the management of the data.
+- **scipy** : Library to implement different functions like *minimization*, *findpeaks*, among others.
+- **tkinter** : Library to design the GUI.
+- **openpyxl** : Library that allows to load .xlsx files. **PLEASE INSTALL THIS MODULE IF YOU DON'T HAVE IT** 
 ### Calibration algorithm functions
 
 These are the functions used to implement the theoretical part of the algorithm itself.
